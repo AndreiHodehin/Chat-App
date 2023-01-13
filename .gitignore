@@ -1,0 +1,16 @@
+.idea/.gitignore
+.idea/
+ClientForChat/target/classes/chatApp/Client$1.class
+ClientForChat/target/classes/chatApp/Client$2.class
+ClientForChat/target/classes/chatApp/Client.class
+ClientForChat/target/classes/chatApp/Connection$1.class
+ClientForChat/target/classes/chatApp/Connection.class
+ClientForChat/target/classes/chatApp/ConnectionListener.class
+ServerForChat/src/main/java/META-INF/MANIFEST.MF
+ServerForChat/ServerForChat.iml
+ServerForChat/target/classes/chatApp/Connection$1.class
+ServerForChat/target/classes/chatApp/Connection.class
+ServerForChat/target/classes/chatApp/ConnectionListener.class
+ServerForChat/target/classes/chatApp/Server.class
+ClientForChat/ClientForChat.iml
+ClientForChat/src/main/java/META-INF/MANIFEST.MF

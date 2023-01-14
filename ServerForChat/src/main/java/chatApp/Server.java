@@ -43,8 +43,7 @@ public class Server implements ConnectionListener {
     @Override
     public synchronized void onDisconnect(Connection connection) {
         connections.remove(connection);
-        sendToAll("Client disconnected: " + connection);
-        System.out.println("Client disconnected: " + connection);
+        sendToAll("Client disconnected");
     }
 
     @Override
